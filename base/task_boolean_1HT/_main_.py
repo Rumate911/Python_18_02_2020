@@ -1,4 +1,4 @@
-from ua.univer.base.task_boolean_1HT.task_5 import log_alg_1_str_inr, logic_algoritm_2_3, logic_algoritm_4, logic_algoritm_5
+from ua.univer.base.task_boolean_1HT.task__boolean_5 import log_alg_1_str_inr, logic_algoritm_2_3, logic_algoritm_4, logic_algoritm_5
 
 if __name__=="__main__":
     log_alg_1_str_inr(1)
