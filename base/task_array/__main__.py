@@ -4,7 +4,6 @@ if __name__ == "__main__":
     exponation_fuc()
     task_ar_Odd_list()
     arifm_progresion()
-    version
 
 
 
