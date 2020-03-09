@@ -3,7 +3,8 @@ from ua.univer.base.task_array.task_array_2 import exponation_fuc,  task_ar_Odd_
 if __name__ == "__main__":
     exponation_fuc()
     task_ar_Odd_list()
-    arifm_progresion(1)
+    arifm_progresion()
+    version
 
 
 
